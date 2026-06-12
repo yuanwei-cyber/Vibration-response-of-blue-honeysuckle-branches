@@ -16,7 +16,7 @@ and `Explicit dynamics simulation of the fruit branch system.cae`. It implements
 
 ## Requirements
 - **Software:** Wolfram *Mathematica* (Version 11.0 or higher recommended). The code has been tested on Version [12.0].
-- **Software:**  *Abaqus CAE* (Version 2017 or higher recommended). The code has been tested on Version [12.0].
+- **Software:**  *Abaqus CAE* (Version 2017 or higher recommended). The code has been tested on Version [2017].
 - **No additional toolboxes or packages are required.**
 
 ## Usage
