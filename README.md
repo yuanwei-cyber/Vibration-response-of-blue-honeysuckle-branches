@@ -3,7 +3,7 @@
 This repository contains the *Mathematica* notebook (`*.nb`) file used to perform the analytical calculations and generate the figures for the manuscript:
 
 > **Vibration response of blue honeysuckle branches based on mathematical model**  
-> *Yuan Wei,Wang Ruiyin,Wang Yecheng,Feng Fang2,Ma Decai*  
+> *Yuan Wei,Wang Ruiyin,Wang Yecheng,Feng Fang,Ma Decai*  
 > *PLOS ONE* 
 
 ## Description
